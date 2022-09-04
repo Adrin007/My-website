@@ -1,2 +1,2 @@
-# My-website
-My first website
+# Astrominers
+Astrominers! we mine....
